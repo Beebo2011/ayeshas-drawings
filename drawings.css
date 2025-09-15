@@ -1,0 +1,38 @@
+body {
+        background-color:rgb(204, 163, 118);          color:rgb(11, 41, 64);
+        font-family:sans-serif;
+        font-size:20px;
+      }
+      h5 {
+        font-family:monospace;
+      }
+      h1 {
+        border-left: 6px solid rgb(158, 124, 89);
+        background-color: rgb(204, 173, 141);
+      }
+      .steps {
+        background:rgb(201, 157, 110);
+        border:2px dashed rgb(148, 120, 92);
+        padding:4px;
+      }
+      .ingredients {
+        background:rgb(201, 157, 110);
+        border:2px dotted rgb(148, 120, 92);
+        padding:4px;
+      }
+      .about {
+        background:rgb(201, 157, 110);
+        border:2px double rgb(148, 120, 92);
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 10px;
+        font-weight:200;
+        font-family: ;
+      }
+      iframe {
+        border:3px solid rgb(158, 127, 74);
+      }
+      img {
+        border-left: 3px solid rgb(128, 43, 0);
+        border-top: 3px solid rgb(110, 43, 0);
+      }
